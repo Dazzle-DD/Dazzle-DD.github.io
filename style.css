@@ -1,0 +1,11 @@
+#big-container {
+    border: 1em solid orange;
+}
+
+a:link {
+    color: gray;
+}
+
+a:visited {
+    color: grey
+}
